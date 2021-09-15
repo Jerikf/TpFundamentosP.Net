@@ -10,7 +10,7 @@ namespace ConsoleHelper
 			{
 				System.Console.ForegroundColor = ConsoleColor.Yellow;
 				System.Console.BackgroundColor = ConsoleColor.Black;
-				System.Console.Write(text);
+				System.Console.WriteLine(text);
 			}
 			finally
 			{
