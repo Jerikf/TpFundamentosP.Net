@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleHelper;
+using System;
 
 namespace Ejercicio1
 {
@@ -6,9 +7,8 @@ namespace Ejercicio1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! SI");
-
-
+           
         }
+
     }
 }

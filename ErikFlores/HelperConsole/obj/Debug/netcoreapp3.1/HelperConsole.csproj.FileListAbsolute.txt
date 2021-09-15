@@ -1,0 +1,4 @@
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\HelperConsole\obj\Debug\netcoreapp3.1\HelperConsole.csproj.AssemblyReference.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\HelperConsole\obj\Debug\netcoreapp3.1\HelperConsole.AssemblyInfoInputs.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\HelperConsole\obj\Debug\netcoreapp3.1\HelperConsole.AssemblyInfo.cs
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\HelperConsole\obj\Debug\netcoreapp3.1\HelperConsole.csproj.CoreCompileInputs.cache

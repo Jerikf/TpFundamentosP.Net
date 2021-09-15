@@ -1,0 +1,16 @@
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.AssemblyReference.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfoInputs.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.exe
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.deps.json
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.json
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.dev.json
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.dll
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.pdb
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\bin\Debug\netcoreapp3.1\ConsoleHelper.dll
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\bin\Debug\netcoreapp3.1\ConsoleHelper.pdb
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.CopyComplete
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.genruntimeconfig.cache

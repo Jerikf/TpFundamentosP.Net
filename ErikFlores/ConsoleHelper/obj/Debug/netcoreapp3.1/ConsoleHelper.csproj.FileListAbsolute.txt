@@ -1,0 +1,8 @@
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\bin\Debug\netcoreapp3.1\ConsoleHelper.deps.json
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\bin\Debug\netcoreapp3.1\ConsoleHelper.dll
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\bin\Debug\netcoreapp3.1\ConsoleHelper.pdb
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.AssemblyInfoInputs.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.AssemblyInfo.cs
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.csproj.CoreCompileInputs.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.dll
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.pdb

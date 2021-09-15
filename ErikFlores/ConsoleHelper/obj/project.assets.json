@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "ConsoleHelper/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/ConsoleHelper.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ConsoleHelper.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "ConsoleHelper/1.0.0": {
-      "type": "project",
-      "path": "../ConsoleHelper/ConsoleHelper.csproj",
-      "msbuildProject": "../ConsoleHelper/ConsoleHelper.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "ConsoleHelper >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\1251e\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FundacionProem\\TpFundamentosP.Net\\ErikFlores\\Ejercicio1\\Ejercicio1.csproj",
-      "projectName": "Ejercicio1",
-      "projectPath": "D:\\FundacionProem\\TpFundamentosP.Net\\ErikFlores\\Ejercicio1\\Ejercicio1.csproj",
+      "projectUniqueName": "D:\\FundacionProem\\TpFundamentosP.Net\\ErikFlores\\ConsoleHelper\\ConsoleHelper.csproj",
+      "projectName": "ConsoleHelper",
+      "projectPath": "D:\\FundacionProem\\TpFundamentosP.Net\\ErikFlores\\ConsoleHelper\\ConsoleHelper.csproj",
       "packagesPath": "C:\\Users\\1251e\\.nuget\\packages\\",
-      "outputPath": "D:\\FundacionProem\\TpFundamentosP.Net\\ErikFlores\\Ejercicio1\\obj\\",
+      "outputPath": "D:\\FundacionProem\\TpFundamentosP.Net\\ErikFlores\\ConsoleHelper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1251e\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,11 +32,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "D:\\FundacionProem\\TpFundamentosP.Net\\ErikFlores\\ConsoleHelper\\ConsoleHelper.csproj": {
-              "projectPath": "D:\\FundacionProem\\TpFundamentosP.Net\\ErikFlores\\ConsoleHelper\\ConsoleHelper.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
