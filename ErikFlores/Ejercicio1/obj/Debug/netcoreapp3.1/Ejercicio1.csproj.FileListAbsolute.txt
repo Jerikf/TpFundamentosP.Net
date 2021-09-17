@@ -14,3 +14,4 @@ D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3
 D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
 D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
 D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.genruntimeconfig.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig

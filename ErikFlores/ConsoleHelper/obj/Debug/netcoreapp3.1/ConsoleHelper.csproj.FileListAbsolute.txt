@@ -6,3 +6,5 @@ D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcorea
 D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.csproj.CoreCompileInputs.cache
 D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.dll
 D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.pdb
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.csproj.AssemblyReference.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\ConsoleHelper\obj\Debug\netcoreapp3.1\ConsoleHelper.GeneratedMSBuildEditorConfig.editorconfig

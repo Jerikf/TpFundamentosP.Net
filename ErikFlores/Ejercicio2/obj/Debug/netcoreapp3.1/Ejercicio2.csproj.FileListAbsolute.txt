@@ -1,0 +1,17 @@
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.exe
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.deps.json
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.json
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.dev.json
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.dll
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.pdb
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\bin\Debug\netcoreapp3.1\ConsoleHelper.dll
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\bin\Debug\netcoreapp3.1\ConsoleHelper.pdb
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.AssemblyReference.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfoInputs.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfo.cs
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.CopyComplete
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.dll
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.pdb
+D:\FundacionProem\TpFundamentosP.Net\ErikFlores\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.genruntimeconfig.cache
