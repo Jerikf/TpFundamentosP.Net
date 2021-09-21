@@ -62,7 +62,7 @@ namespace Ejercicio5
 
             while (!exit)
             {
-                //name = getName();
+                name = getName();
                 sex = getSexStudent();
                 age = getAgeStudent();
                 finalNota = getNotaFinal();
